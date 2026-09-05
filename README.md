@@ -49,6 +49,8 @@ Exploratory-Data-Analysis-on-India-s-COVID-19-Data/
 │
 ├── .gitignore
 │
+├── .Aayush Srivastava(0012)(CSE-DS-A)DSML Mini Project Report
+│
 ├── pyvenv.cfg
 │
 └── README.md
